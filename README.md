@@ -13,7 +13,8 @@ main分支下含有**作业最终报告“程设大作业设计文档”**、报
 
 ## 视频链接：
 展示视频链接存储在main下文件"**视频链接.txt**"中，为确保无误，特此贴视频链接如下
-https://disk.pku.edu.cn/link/AA23ADF7C7EF7147F590BA5602B14A195C
+https://disk.pku.edu.cn/link/AA3EDCAF6472374C13A3B73C4447A07B79（最新链接，按照要求命名）
+https://disk.pku.edu.cn/link/AA23ADF7C7EF7147F590BA5602B14A195C（备用链接，内容与上相同）
 
 ## 有关版本：
 为保证提交内容结构清晰，本仓库提供的所有内容均为最终版本
