@@ -19,4 +19,6 @@ https://disk.pku.edu.cn/link/AA23ADF7C7EF7147F590BA5602B14A195C（备用链接�
 ## 有关版本：
 为保证提交内容结构清晰，本仓库提供的所有内容均为最终版本
 
-部分旧版内容可参考https://github.com/Aleta-Asta/GroupPractice-Multi-Language-Software-for-words-memorizing-，仅做参考，并非全部旧版内容，后续更新部分有些并未依赖github
+部分旧版内容可参考https://github.com/Aleta-Asta/GroupPractice-Multi-Language-Software-for-words-memorizing-
+
+仅做参考，并非全部旧版内容，后续更新部分有些并未依赖github
